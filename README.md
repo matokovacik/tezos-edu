@@ -15,5 +15,7 @@ ToC
         * Cryptocurencies
     * Blockchain 2.0
     * Blockchain 3.0
+* Appendix
+    * [Technical prerequisites](prerequisites.md)
 
 
