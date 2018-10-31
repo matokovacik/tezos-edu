@@ -5,5 +5,15 @@ Materials:
 
 ToC
 * Intro to blockchain
+    * Blockchain as a data structure
+* Consensus algorithms
+    * Proof of Work
+    * Proof of Stake
+    * Additional algorithms
+* Blockchain applications
+    * Blockchain 1.0
+        * Cryptocurencies
+    * Blockchain 2.0
+    * Blockchain 3.0
 
 
