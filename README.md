@@ -6,6 +6,11 @@ Materials:
 ToC
 * Intro to blockchain
     * Blockchain as a data structure
+    * Hash Cryptography
+    * Immutable Ledger
+    * Distributed P2P Network
+    * Mining
+        * Nonce
 * Consensus algorithms
     * Proof of Work
     * Proof of Stake
@@ -17,5 +22,7 @@ ToC
     * Blockchain 3.0
 * Appendix
     * [Technical prerequisites](prerequisites.md)
+
+
 
 
