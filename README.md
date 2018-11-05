@@ -20,6 +20,9 @@ ToC
         * Cryptocurencies
     * Blockchain 2.0
     * Blockchain 3.0
+* Forks in blockchain
+* Stack-based programming languages
+* 
 * Appendix
     * [Technical prerequisites](prerequisites.md)
 
