@@ -12,5 +12,4 @@ Sources:
 * https://www.safaribooksonline.com/library/view/mastering-blockchain-/9781788839044/
 * https://app.pluralsight.com/player?course=blockchain-fundamentals&author=janerik-sandberg&name=blockchain-fundamentals-m6&clip=4&mode=live
 * https://www.quora.com/topic/Learning-Blockchains
-
-
+* https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
