@@ -9,6 +9,7 @@ SHA-256
 
 
 Parts of blockchain
+
 - Hash Cryptography
 - Immutable Ledger
 - Distributed P2P Network

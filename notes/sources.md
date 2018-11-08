@@ -13,3 +13,4 @@ Sources:
 * https://app.pluralsight.com/player?course=blockchain-fundamentals&author=janerik-sandberg&name=blockchain-fundamentals-m6&clip=4&mode=live
 * https://www.quora.com/topic/Learning-Blockchains
 * https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
+* https://bitcoinmagazine.com/articles/deterministic-wallets-advantages-flaw-1385450276/
