@@ -24,3 +24,5 @@ To Read:
 - ref. A beginners guide to Tezos (https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f)
 - ref. soft fork vs hard fork blockchain (https://www.investopedia.com/terms/h/hard-fork.asp)
 - ref. https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419
+- ref. https://www.zastrin.com/courses/simple-tezos-dapp/lessons/3-3
+- 

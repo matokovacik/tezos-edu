@@ -14,3 +14,12 @@ Sources:
 * https://www.quora.com/topic/Learning-Blockchains
 * https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
 * https://bitcoinmagazine.com/articles/deterministic-wallets-advantages-flaw-1385450276/
+
+Smart Contracts
+* https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
+
+Forks
+* https://www.bloomberg.com/features/2017-the-ether-thief/
+
+Tezos DEvelopment
+* https://try-michelson.com

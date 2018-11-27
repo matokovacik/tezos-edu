@@ -11,6 +11,8 @@ ToC
     * Distributed P2P Network
     * Mining
         * Nonce    
+        * Mining Difficulty
+        * Target
     * Consensus algorithms
         * Byzantine Fault Tolerance
         * Proof of Work
