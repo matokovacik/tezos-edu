@@ -5,3 +5,4 @@ The guides are build using [Jupyter notebook](http://jupyter.org) and [Bash kern
 ## Guides:
 - Installation of tezos and liquidity from sources
     - [MacOS](macos-tezos.ipynb)
+- [Running of Sandbox tezos and test execution of liquidity contract](sandbox-development.ipynb)
