@@ -1,9 +1,32 @@
 # Tezos/Blockchain Education Curriculum
 
+The guide is focusing on developing dapp using Tezos Blockchain. Blockchain generic topics are refered, however not always elaborated further. We suggest to check articles and resources referenced to grasp generic concepts.
+
+For convenience reasons technical walk-through sections are using Jupyter Notebook with Bash Kernel. Please consult [how to get Jupyter installed](prework/jupyter_installation.md). If you look at the tutorial directly on github you can still do cut&paste to console even without Jupyter/bash kernel. 
+
 Materials:
 * [Notes](notes/sources.md)
 
-ToC
+## Generic Blockchain Intro
+* [Recommended Online Courses](recommended_courses.md)
+* [Consensus Algorithms](consensus_algorithms_intro.md)
+
+## Tezos 
+### Basic Concepts
+* [On-chain Governance](tezos/on_chain_governance.md)
+* [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
+* [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
+* [Tezos Wallets](tezos/wallets.md)
+* [Tezos Smart Contracts](tezos/smart_contracts.md)
+* [Tezos Accounts](tezos/accounts.md)
+* [Tezos Network](tezos/network.md)
+
+### Set-up of Tezos and Development Tooling
+* Tezos Distribution
+    * [Tezos Docker](setup/docker.ipynb)
+    * [Installation from source codes](setup/source_install.ipynb)
+
+
 * Intro to blockchain
     * Blockchain as a data structure
     * Hash Cryptography
