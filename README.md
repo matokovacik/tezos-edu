@@ -8,17 +8,16 @@ Materials:
 * [Notes](notes/sources.md)
 
 ## Generic Blockchain Intro
-* [Recommended Online Courses](recommended_courses.md)
-* [Consensus Algorithms](consensus_algorithms_intro.md)
+* [Recommended Online Courses](generic/recommended_courses.md)
+* [Consensus Algorithms](generic/consensus_algorithms_intro.md)
 
 ## Tezos 
 ### Basic Concepts
 * [On-chain Governance](tezos/on_chain_governance.md)
 * [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
 * [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
+* [Tezos Accounts and Smart Contracts](tezos/accounts_and_smart_contracts.md)
 * [Tezos Wallets](tezos/wallets.md)
-* [Tezos Smart Contracts](tezos/smart_contracts.md)
-* [Tezos Accounts](tezos/accounts.md)
 * [Tezos Network](tezos/network.md)
 
 ### Set-up of Tezos and Development Tooling
@@ -28,7 +27,17 @@ Materials:
     * [Tezos sandbox](setup/sandbox_tutorial.ipynb)
 
 ### Tezos Development
-* 
+* Smart Contract Development
+    * [Michelson](tezos/michelson.md)
+    * [Liquidity](tezos/liquidity.md)
+        * Suggested pre-requisite - [OCaml Tutorial](https://try.ocamlpro.com)
+* Smart Contract Clients / Wallets
+* Walk-through samples
+    * [Simple Calculator](code/calculator.ipynb)
+    * [Sample Token](code/token.ipynb)
+
+
+## Archive
 
 * Intro to blockchain
     * Blockchain as a data structure
