@@ -33,7 +33,7 @@ Materials:
         * Suggested pre-requisite - [OCaml Tutorial](https://try.ocamlpro.com)
 * Smart Contract Clients / Wallets
 * Walk-through samples
-    * [Simple Calculator](code/calculator.ipynb)
+    * [Simple Calculator](code/calculator_dapp.ipynb)
     * [Sample Token](code/token.ipynb)
 
 
