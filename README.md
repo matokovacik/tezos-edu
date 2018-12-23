@@ -4,15 +4,15 @@ The guide is focusing on developing dapp using Tezos Blockchain. Blockchain gene
 
 For convenience reasons technical walk-through sections are using Jupyter Notebook with Bash Kernel. Please consult [how to get Jupyter installed](prework/jupyter_installation.md). If you look at the tutorial directly on github you can still do cut&paste to console even without Jupyter/bash kernel. 
 
-Materials:
-* [Notes](notes/sources.md)
-
 ## Generic Blockchain Intro
 * [Recommended Online Courses](generic/recommended_courses.md)
-* [Consensus Algorithms](generic/consensus_algorithms_intro.md)
 
 ## Tezos 
-### Basic Concepts
+### Crash course on smart contracts in Tezos
+* [Installation from source codes](setup/source_install.ipynb)
+* [Simple Calculator](code/calculator_dapp.ipynb)
+
+### Basic Concepts TBD
 * [On-chain Governance](tezos/on_chain_governance.md)
 * [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
 * [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
@@ -23,8 +23,6 @@ Materials:
 ### Set-up of Tezos and Development Tooling
 * Tezos Distribution
     * [Tezos Docker](setup/docker.ipynb)
-    * [Installation from source codes](setup/source_install.ipynb)
-    * [Tezos sandbox](setup/sandbox_tutorial.ipynb)
 
 ### Tezos Development
 * Smart Contract Development
@@ -33,8 +31,6 @@ Materials:
         * Suggested pre-requisite - [OCaml Tutorial](https://try.ocamlpro.com)
 * Smart Contract Clients / Wallets
 * Walk-through samples
-    * [Simple Calculator](code/calculator_dapp.ipynb)
-    * [Sample Token](code/token.ipynb)
 
 
 ## Archive
