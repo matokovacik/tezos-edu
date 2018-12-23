@@ -43,7 +43,7 @@ Each liquidity file consist of three parts
 **Voting.liq**
 
 ```ocaml
-[%%version 0.4]
+[%%version 0.4
   
 type storage = {
   candidates : (string, int) map;
