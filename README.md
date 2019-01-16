@@ -2,27 +2,34 @@
 
 The guide is focusing on developing dapp using Tezos Blockchain. Blockchain generic topics are refered, however not always elaborated further. We suggest to check articles and resources referenced to grasp generic concepts.
 
-For convenience reasons technical walk-through sections are using Jupyter Notebook with Bash Kernel. Please consult [how to get Jupyter installed](prework/jupyter_installation.md). If you look at the tutorial directly on github you can still do cut&paste to console even without Jupyter/bash kernel. 
+## Prerequisites
+The tutorial focus on Tezos specifics. To successfully follow the course it's recommended to have following prerequisites.
+1. You should understand how blockchain works at high level
+2. You should be familiar with some programming language. Understanding of functional languages like Lisp, Scheme, Ocaml is a plus.
+3. It's recommended to do some tutorials on Ocaml language - eg. https://try.ocamlpro.com
+4. You should be confortable with command line and shell scripting.
 
 ## Generic Blockchain Intro
-* [Recommended Online Courses](generic/recommended_courses.md)
+* [High Level Blockchain Curriculum](generic/recommended_courses.md)
 
 ## Tezos 
-### Crash course on smart contracts in Tezos
-* [Installation from source codes](setup/source_install.ipynb)
-* [Simple Calculator](code/calculator_dapp.ipynb)
+### Technical Introduction to Tezos
+* [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
+* [Tezos Networks](tezos/network.md)
+* [PRACTICE: Installation from source codes](setup/source_install.ipynb)
+* [PRACTICE: Installation of tezos docker](setup/docker_install.ipynb)
+* [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.md)
+* [PRACTICE: Working with Tezos Sandbox](setup/working_with_sandbox.md)
+
+### Development of Tezos Smart Contract
+* [Tezos Wallets](tezos/wallets.md)
+* [Tezos Accounts and Smart Contracts](tezos/accounts_and_smart_contracts.md)
+* [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
+* [Tezos Fees and Cost Model](tezos/fees_and_costmodel.md)
 
 ### Basic Concepts TBD
 * [On-chain Governance](tezos/on_chain_governance.md)
 * [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
-* [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
-* [Tezos Accounts and Smart Contracts](tezos/accounts_and_smart_contracts.md)
-* [Tezos Wallets](tezos/wallets.md)
-* [Tezos Network](tezos/network.md)
-
-### Set-up of Tezos and Development Tooling
-* Tezos Distribution
-    * [Tezos Docker](setup/docker.ipynb)
 
 ### Tezos Development
 * Smart Contract Development
