@@ -31,6 +31,7 @@ Goal of the section is to understand logical and technical components of tezos. 
 
 ### Basic Development of Tezos Smart Contract
 Section is describing how to build simple contract E2E in Tezos sandbox environment. Samples are focusing on usage of Tezos tooling and basic data exctraction from the blockchain. 
+
 5. :hatching_chick: :chicken: [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
 6. :hatching_chick: :chicken: [PRACTICE: Building Simple Calculator Frontend](code/calculator_dapp_frontend.ipynb)
 
