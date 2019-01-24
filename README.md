@@ -2,42 +2,45 @@
 
 The guide is focusing on developing dapp using Tezos Blockchain. Blockchain generic topics are refered, however not always elaborated further. We suggest to check articles and resources referenced to grasp generic concepts.
 
+## Hot to Read and Who Should Read The Guide
+During the tutorial we will be marking content depending on the experience level using icons :hatching_chick: and :chicken:.
+Guide is focusing on two experience levels of users 
+- developers with no prior knowledge on blockain
+- blockchain developers with experience with tezos/other platforms, that would like to get up to speed quickly.
+
+Pages in contents bellow are designed to be followed step-by-step. In case you are advanced user(:chicken:) you can skip sections addressed to developers with no prior blockchain experience (:hatching_chick:).
+
+Tutorial is using layering of concepts. In case you don't understand some command or concept, we will try to elaborate on in some of later section.
+
+
+
 ## Prerequisites
 The tutorial focus on Tezos specifics. To successfully follow the course it's recommended to have following prerequisites.
-1. You should understand how blockchain works at high level
-2. You should be familiar with some programming language. Understanding of functional languages like Lisp, Scheme, Ocaml is a plus.
-3. It's recommended to do some tutorials on Ocaml language - eg. https://try.ocamlpro.com
-4. You should be confortable with command line and shell scripting.
+1. You should understand how blockchain works at high level (we suggest to look at [High Level Blockchain Curriculum](generic/recommended_courses.md)])
+2. You should be familiar with some programming language. Understanding of functional languages like Lisp, Scheme, Ocaml is a plus. It's recommended to do some tutorials on Ocaml language - eg. https://try.ocamlpro.com
+3. You should be confortable with command line and shell scripting - eg. https://www.learnshell.org . At the time of writing we've tested the samples on Debian (Raspberry) and Mac OS. 
 
 ## Generic Blockchain Intro
-* [High Level Blockchain Curriculum](generic/recommended_courses.md)
+* :hatching_chick: [High Level Blockchain Curriculum](generic/recommended_courses.md)
 
 ## Tezos 
 ### Technical Introduction to Tezos
-* [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
-* [Tezos Networks](tezos/network.md)
-* [PRACTICE: Installation from source codes](setup/source_install.ipynb)
-* [PRACTICE: Installation of tezos docker](setup/docker_install.ipynb)
-* [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.md)
-* [PRACTICE: Working with Tezos Sandbox](setup/working_with_sandbox.md)
+1. :hatching_chick: [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
+2. :hatching_chick: [Tezos Networks](tezos/network.md)
+3. :hatching_chick: :chick: [PRACTICE: Installation from source codes](setup/source_install.ipynb)
 
-### Development of Tezos Smart Contract
-* [Tezos Wallets](tezos/wallets.md)
-* [Tezos Accounts and Smart Contracts](tezos/accounts_and_smart_contracts.md)
-* [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
-* [Tezos Fees and Cost Model](tezos/fees_and_costmodel.md)
+### Basic Development of Tezos Smart Contract
+4. :hatching_chick: :chick: [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
 
-### Basic Concepts TBD
-* [On-chain Governance](tezos/on_chain_governance.md)
-* [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
+### More Advanced Development of Tezos Smart Contract
+4. :chick: [Tezos Fees and Cost Model](tezos/fees_and_costmodel.md)
+5. :chick: [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.md)
+6. :chick: [PRACTIVE: Voting Smart Contract](code/voting_dapp.ipynb)
 
-### Tezos Development
-* Smart Contract Development
-    * [Michelson](tezos/michelson.md)
-    * [Liquidity](tezos/liquidity.md)
-        * Suggested pre-requisite - [OCaml Tutorial](https://try.ocamlpro.com)
-* Smart Contract Clients / Wallets
-* Walk-through samples
+### Tezos Concepts
+6. :chick: [On-chain Governance](tezos/on_chain_governance.md)
+7. :chick: [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
+
 
 
 
