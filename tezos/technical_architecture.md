@@ -8,7 +8,7 @@ This is the key component of the Tezos. It is a daemon responsible for communica
 
 Tezos node is exposing RPC API, that can be used to interact with blockchain.
 
-WORKING COMMENT: At the time of writing, it takes up to week to synchronise with Alphanet.
+**WORKING COMMENT**: At the time of writing, it takes up to week to synchronise with Alphanet.
 
 ## Tezos Client 
 Tezos client is command line utility used to communicate with the node using the RPC. In addition to that tezos-client has a wallet component build in.
