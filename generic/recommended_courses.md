@@ -10,16 +10,16 @@ This section lists external resources, that we find good sources of information 
 
 # General Blockchain Concepts
 * Intro to blockchain
-    * Blockchain as a data structure
-    * Hash Cryptography
-    * Immutable Ledger
-    * Distributed P2P Network
-    * Mining
-        * Nonce    
+    * [Blockchain as a data structure](https://cryptoticker.io/en/blockchain-data-structure/)
+    * [Hash Cryptography](https://blockgeeks.com/guides/what-is-hashing/)
+    * [Immutable Ledger](https://tradeix.com/distributed-ledger-technology/)
+    * [Distributed P2P Network](https://analytics4all.org/2018/04/14/blockchain-p2p-distributed-networks/)
+    * [Mining](https://coinsutra.com/bitcoin-mining-basic-guide-beginners/)
+        * Nonce
         * Mining Difficulty
         * Target
     * [Consensus algorithms](consensus_algorithms_intro.md)
-        * Byzantine Fault Tolerance
+        * [Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
         * Proof of Work
         * Proof of Stake
         * Delegated Proof of Stake
@@ -39,7 +39,7 @@ This section lists external resources, that we find good sources of information 
 * Block Frequency
 
 * Smart Contract Development
-  
+
 * Tezos
     * Forks in blockchain
     * Stack-based programming languages
@@ -49,6 +49,6 @@ This section lists external resources, that we find good sources of information 
         * Michelson (https://www.michelson-lang.com)
         * Environment for writing Michelson programs
 
-    
+
 * Appendix
     * [Technical prerequisites](prerequisites.md)
