@@ -6,7 +6,7 @@ The guide is focusing on developing dapp using Tezos Blockchain. Blockchain gene
 During the guide we will be marking content depending on the experience level using icons :hatching_chick: and :chicken:.
 Guide is focusing on two experience levels of users 
 - :hatching_chick: developers with no prior knowledge on blockain
-- :chicken: blockchain developers with experience with tezos/other platforms, that would like to get up to speed quickly.
+- :chicken: blockchain developers with experience with tezos/other platforms, that would like to work with Tezos ASAP.
 
 Pages in contents bellow are designed to be followed step-by-step. In case you are **advanced user (:chicken:)** you can skip sections addressed to **developers with no prior blockchain experience (:hatching_chick:)**.
 
@@ -21,25 +21,27 @@ The tutorial focus on Tezos specifics. To successfully follow the course it's re
 4. You should be comfortable with command line and shell scripting - eg. https://www.learnshell.org . At the time of writing we've tested the samples on Debian (Raspberry) and Mac OS. 
 
 ## Generic Blockchain Intro
-* :hatching_chick: [High Level Blockchain Curriculum](generic/recommended_courses.md)
+* :hatching_chick: [High Level Blockchain Curriculum](generic/recommended_courses.md). Provides references to external material on blockchain.
 
 ## Guide Contents 
 ### Technical Introduction to Tezos
-1. :hatching_chick: [Technical Architecture / Tezos Components](tezos/technical_architecture.md)
-2. :hatching_chick: [Tezos Networks](tezos/network.md)
-3. :hatching_chick: :chicken: [PRACTICE: Installation from source codes](setup/source_install.ipynb)
+1. :hatching_chick: [Tezos Concepts](tezos/tezos_concepts.md)
+2. :hatching_chick: [Technical Architecture / Tezos Components](tezos/technical_architecture.md). Describes tezos programs and how they relate to each other
+3. :hatching_chick: [Tezos Networks](tezos/network.md)
+4. :hatching_chick: :chicken: [PRACTICE: Installation from source codes](setup/source_install.ipynb)
 
 ### Basic Development of Tezos Smart Contract
-4. :hatching_chick: :chicken: [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
+5. :hatching_chick: :chicken: [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
 
 ### More Advanced Development of Tezos Smart Contract
-4. :chicken: [Tezos Fees and Cost Model](tezos/fees_and_costmodel.md)
-5. :chicken: [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.md)
-6. :chicken: [PRACTIVE: Voting Smart Contract](code/voting_dapp.ipynb)
+6. :chicken: [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.md)
+7. :chicken: [PRACTIVE: Voting Smart Contract](code/voting_dapp.ipynb)
+8. :chicken: [Tezos Fees and Cost Model](tezos/fees_and_costmodel.md)
 
-### Tezos Concepts
-6. :chicken: [On-chain Governance](tezos/on_chain_governance.md)
-7. :chicken: [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
+### Advanced Tezos Concepts
+9. :chicken: [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
+10. :chicken: [On-chain Governance](tezos/on_chain_governance.md)
+
 
 
 
