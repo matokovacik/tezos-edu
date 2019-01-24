@@ -10,9 +10,6 @@ Guide is focusing on two experience levels of users
 
 Pages in contents bellow are designed to be followed step-by-step. In case you are **advanced user (:chicken:)** you can skip sections addressed to **developers with no prior blockchain experience (:hatching_chick:)**.
 
-Tutorial is using layering when it comes to explanation of concepts. Goal is to make developer build smart contract in shortest possible time. In each section, we will try to focus on minimal set of items, that are required so after completion of each section your profeciency will improve. In case you don't understand some command or concept, we will try to elaborate on in some of later section. Also we believe if you have working set of commands, will less then ideal commentary it's easier to look up the information, rather than other way round.
-
-
 ## Prerequisites
 The tutorial focus on Tezos specifics. To successfully follow the course it's recommended to have following prerequisites.
 1. You should understand how blockchain works at high level (we suggest to look at [High Level Blockchain Curriculum](generic/recommended_courses.md)])
@@ -25,25 +22,25 @@ The tutorial focus on Tezos specifics. To successfully follow the course it's re
 
 ## Guide Contents 
 ### Technical Introduction to Tezos
+Goal of the section is to understand logical and technical components of tezos. They will be referenced several times throught the guide. At the end of the section you should have all technical components required to run Tezos and also required development tooling.
+
 1. :hatching_chick: [Tezos Concepts](tezos/tezos_concepts.md)
 2. :hatching_chick: [Technical Architecture / Tezos Components](tezos/technical_architecture.md). Describes tezos programs and how they relate to each other
 3. :hatching_chick: [Tezos Networks](tezos/network.md)
 4. :hatching_chick: :chicken: [PRACTICE: Installation from source codes](setup/source_install.ipynb)
 
 ### Basic Development of Tezos Smart Contract
+Section is describing how to build simple contract E2E in Tezos sandbox environment. Samples are focusing on usage of Tezos tooling and basic data exctraction from the blockchain. 
 5. :hatching_chick: :chicken: [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
+6. :hatching_chick: :chicken: [PRACTICE: Building Simple Calculator Frontend](code/calculator_dapp_frontend.ipynb)
 
 ### More Advanced Development of Tezos Smart Contract
-6. :chicken: [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.md)
-7. :chicken: [PRACTIVE: Voting Smart Contract](code/voting_dapp.ipynb)
-8. :chicken: [Tezos Fees and Cost Model](tezos/fees_and_costmodel.md)
+In this section we will focus more on building application using Liquidity language. Also by the end of section you should be able to deploy your contracts into tezos alphanet.
+
+7. :chicken: [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.ipynb)
+8. :chicken: [PRACTIVE: Voting Smart Contract](code/voting_dapp.ipynb)
+9. :chicken: [Tezos Fees and Cost Model](tezos/fees_and_costmodel.md)
 
 ### Advanced Tezos Concepts
-9. :chicken: [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
-10. :chicken: [On-chain Governance](tezos/on_chain_governance.md)
-
-
-
-
-
-
+10. :chicken: [Liquid Proof of Stake](tezos/liquid_proof_of_stake.md)
+11. :chicken: [On-chain Governance](tezos/on_chain_governance.md)
