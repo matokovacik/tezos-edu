@@ -33,11 +33,11 @@ Goal of the section is to understand logical and technical components of tezos. 
 Section is describing how to build simple contract E2E in Tezos sandbox environment. Samples are focusing on usage of Tezos tooling and basic data extraction from the blockchain. 
 
 5. :hatching_chick: :chicken: [PRACTICE: Simple Calculator](code/calculator_dapp.ipynb)
-6. :hatching_chick: :chicken: [PRACTICE: Building Simple Calculator Frontend](code/calculator_dapp_frontend.ipynb)
+6. :hatching_chick: :chicken: [PRACTICE: Building Simple Calculator Client](code/calculator_dapp_client.ipynb)
 
 ### More Advanced Development of Tezos Smart Contract
 In this section we will focus more on building application using Liquidity language with less focus on core tooling. Also in this section we will elaborate how to deploy contracts into tezos alphanet ("pre-production network"). 
-*We are putting alphanet related deployment here. Despite getting alphanet is relatively straightforward, it requires full node synchronisation. At the time of writing this process took approx. 1 week. *
+**We are putting alphanet related deployment here. Despite getting alphanet is relatively straightforward, it requires full node synchronisation. At the time of writing this process took approx. 1 week in my set-up (Debian 9 on Raspberry Pi 3 B+).**
 
 7. :chicken: [PRACTICE: Working with Tezos Alphanet](setup/working_with_alphanet.ipynb)
 8. :chicken: [PRACTICE: Voting Smart Contract](code/voting_dapp.ipynb)
