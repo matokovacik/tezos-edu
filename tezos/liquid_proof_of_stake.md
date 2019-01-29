@@ -1,2 +1,2 @@
 # Liquid Proof Of Stake
-TBD
+http://tezos.gitlab.io/mainnet/whitedoc/proof_of_stake.html
